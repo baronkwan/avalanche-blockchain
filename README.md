@@ -8,7 +8,7 @@ Avalanche is a layer one protocol by Ava Labs that offers high-throughput, fast 
 
 ## Summary
 
-In this repo, I learnt
+In this repo, learnt
 - How Avalanche works
 - The reason why Avalanche split into three chains
 - How to setup project to connect and interact with Avalanche blockchain
